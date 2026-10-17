@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Translator to Field",
+  "version": "1.0",
+  "description": "Tłumaczy polski tekst na angielski i wkleja go do aktywnego pola tekstowego.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}
